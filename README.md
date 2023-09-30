@@ -20,10 +20,8 @@ Opcional: Descargar el repositorio como archivo RAR, e importarlo manualmente a 
 - Función 2: Mostrar datos de los puntos de interés.
 - Función 3: Eliminar puntos de interés.
 - Función 4: Registrar turista.
-- Función 5: Agregar lugar favorito a turista.
 - Función 6: Mostrar turistas por país.
 - Función 7: Mostrar todos los puntos de interes por tipo.
-- Función 8: Importar puntos de interés y turistas.
 - Función 9: Exportar puntos de interés y turistas.
  
 ### Funcionando a medias:
